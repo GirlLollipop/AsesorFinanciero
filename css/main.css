@@ -1,0 +1,53 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+i{
+ color: #FFC107;
+}
+
+.smart > #smart > img {
+  margin-top: 13%;
+}
+
+.splash{
+  background-color: #132b91;
+  height: 100vh;
+  width: auto;
+}
+
+.splash > img {
+  width: 50%;
+  margin-top: 60%;
+  margin-left: 27%
+}
+
+.nav-icons{
+ color: #FFC107;
+}
+
+.send{
+ color: #FFC107;
+}
+.shopping-container{
+ background: #E3F9F5;
+}
+h6{
+ font-weight: 900;
+}
+.message{
+ color: #F2CA13;
+}
+.empty2-row{
+ min-height: 4vh;
+}
+
+.map{
+ height: 50vh;
+}
+
+#add_card {
+  padding-top: 5px;
+  padding-bottom: 0;
+}
