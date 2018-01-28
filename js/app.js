@@ -1,7 +1,4 @@
-setTimeout(function(){
- window.location = "views/home.html";
-}, 3000);
-clearTimeout(timeout);
+
 //ofertas
 $(document).ready(function() {
     $('select').material_select();

@@ -17,10 +17,17 @@ i{
   width: auto;
 }
 
-.splash > img {
+.splash > a > img {
   width: 50%;
   margin-top: 60%;
   margin-left: 27%
+}
+
+#card-smart {
+  margin-left: 10%;
+  border: 2px solid yellow;
+  width: 80%;
+  height: 20vh;
 }
 
 .nav-icons{
