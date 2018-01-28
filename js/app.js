@@ -1,6 +1,6 @@
-$(document).ready(function(){
-   setTimeout("$('.splash').hide();", 2000);
-});
+setTimeout(function(){
+ window.location = "views/home.html";
+}, 3000);
 
 //ofertas
 $(document).ready(function() {
